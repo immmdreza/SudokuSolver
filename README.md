@@ -1,5 +1,6 @@
 # SudokuSolver
 ⚠️ Do not visit source code before reading this. you may want to solve it by your own 
+
 A sudoku solver written in python ( Easy sudoku for now )
 
 ### What's easy sudoku 
