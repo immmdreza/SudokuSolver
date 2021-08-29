@@ -26,3 +26,5 @@ if solver_s.full_solve():
     print(sudoku_s)
 
 ```
+
+An answer to [Kata](https://www.codewars.com/kata/5296bc77afba8baa690002d7/)
